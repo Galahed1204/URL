@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">URL</string>
+    <string name="settings">Настройки</string>
+    <string name="go_settings">Перейти к настройкам</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+</resources>
